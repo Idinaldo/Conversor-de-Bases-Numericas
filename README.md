@@ -13,3 +13,5 @@ Confome desenvolvemos o projeto, podemos atualizar quais tecnologias estamos uti
 ## Requisitos
 
 Ter instalado Python na versão 3.10.6 (durante o desenvolvimento, começamos na versão 3.10.6, então não podemos garantir que versões anteriores funcionem).
+
+Este foi um desafio proposto no curso de Python do cursoemvideo
