@@ -78,3 +78,5 @@ while True:
                 print('\033[31mERRO! \033[33mPor favor, digite apenas S ou N.\033[m')
             if follow in 'N':
                 break
+
+# código feito por Idinaldo
